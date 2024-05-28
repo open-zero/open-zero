@@ -14,15 +14,15 @@
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
-    "@mui/material": "^5.15.15",
+    "@mui/material": "^5.15.18",
     "@mui/material-nextjs": "^5.15.11",
     "next": "^14.2.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7",
-    "@types/react": "^18.3.1",
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "eslint": "^8.57.0",
     "eslint-config-next": "^14.2.3",
@@ -32,7 +32,7 @@
   },
   "engines": {
     "node": ">=20.10.0",
-    "npm": ">=10.0.0"
+    "pnpm": ">=9.0.0"
   },
-  "packageManager": "pnpm@8.15.7"
+  "packageManager": "pnpm@9.1.3"
 }
